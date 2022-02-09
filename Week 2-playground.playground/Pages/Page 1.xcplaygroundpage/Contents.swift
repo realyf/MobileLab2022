@@ -30,7 +30,7 @@ func generateBlock(_ n: Int) {
 
 generateBlock(10)
 print("")
-generateBlock(5)
+generateBlock(3)
 print("")
 generateBlock(5)
 
